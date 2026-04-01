@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const TELEGRAM_TOKEN = "6906472163:AAFhaWSYeFZIm8M0TYs0cFW-5COeSDkG3f4";
+const TELEGRAM_TOKEN = "6906472163:AAH4N66rOmZMpSbQiva9qPczmF2iKcffNhg";
 const CHAT_ID = "5108111483";
 
 const LOGIN_URL = "https://ace.tor-iot.com/api/EquipAccount/EquipAppLogin";
